@@ -5,8 +5,10 @@ Olá! Me chamo Alexsander, sou um programador dedicado a criar soluções digita
 - **JavaScript**: Construção de funcionalidades dinâmicas e interativas.  
 - **Node.js**: Desenvolvimento de APIs e sistemas backend performáticos.  
 
-🎯 Meu foco está em construir aplicações que entreguem valor real aos usuários.  
-📚 Sempre explorando novas tecnologias e aprimorando minhas habilidades. 
+🎯 Meu foco está em construir aplicações que entreguem valor real aos usuários.
+
+📚 Sempre explorando novas tecnologias e aprimorando minhas habilidades
+
 🤝 Acredito no poder da colaboração.
 
 
